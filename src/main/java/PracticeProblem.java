@@ -1,3 +1,9 @@
+	/* File: Lesson 1.5: Characters
+	* Author: Kaveeshan Sathasivam
+	* Date Created: February 17, 2026
+	* Date Last Modified: February 18, 2026
+	*/
+
 import java.util.Scanner;
 
 public class PracticeProblem {
